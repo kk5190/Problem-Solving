@@ -1,4 +1,4 @@
-# Solution
+# Intuition
 
 If a linked list has no loop, then when we iterate through the list, we will eventually reach the end of the list, at which point we can simply return. However, the challenge is figuring out how to terminate the program if it finds a loop. Otherwise the program would go on forever.
 
