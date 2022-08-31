@@ -1,6 +1,6 @@
 # Intution
 
-The solution is similar to **Find All Anagrams in a String**, except instead of matching exactly, we are to find a window that contains all characters in check.
+This is similar to **Find All Anagrams in a String**, except instead of matching exactly, we are to find a window that contains all characters in check.
 
 In this case, the comparison for checking valid window is changed to compare that for every character in check, see if the window contains more of that character.
 
