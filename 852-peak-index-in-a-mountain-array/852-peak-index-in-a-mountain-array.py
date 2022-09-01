@@ -8,10 +8,9 @@ class Solution(object):
         while start <= end:
             mid = (start + end) // 2
             if arr[mid] > arr[mid+1]:
-                ans = mid
                 end = mid - 1
             else:
                 start = mid + 1
-        return ans
+        return start
                 
         
