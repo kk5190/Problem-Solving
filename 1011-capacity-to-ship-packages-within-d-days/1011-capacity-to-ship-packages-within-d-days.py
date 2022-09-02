@@ -5,17 +5,15 @@ class Solution(object):
         :type days: int
         :rtype: int
         """
-        min_ptr = max(weights)
-        max_ptr = sum(weights)
-        boundary_index = max_ptr
-        while min_ptr <= max_ptr:
-            midpoint = (min_ptr + max_ptr) // 2
-            if self.feasible(weights, midpoint, days):
-                boundary_index = midpoint
-                max_ptr = midpoint - 1
+        start = max(weights)
+        end = sum(weights)
+        while start < end:
+            mid = (start + end) // 2
+            if self.feasible(weights, mid, days):
+                end = mid
             else:
-                min_ptr = midpoint + 1
-        return boundary_index
+                start = mid + 1
+        return end
     
     def feasible(self, weights, max_weight, d):
             req_days = 1
