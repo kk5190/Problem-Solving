@@ -28,5 +28,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |[Peak of Mountain Array](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/852-peak-index-in-a-mountain-array)|:fire::fire:|
 |[Capacity to Ship Packages Within D Days](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/1011-capacity-to-ship-packages-within-d-days)|:fire::fire:</b></font>|
 
+## [Depth First Search](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search)
+
+| Problem      | Difficulty |
+| ----------- | ----------- |
+| [Maximum depth of a binary tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/104-maximum-depth-of-binary-tree)|:fire:|
+| [Minimum depth of a binary tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/111-minimum-depth-of-binary-tree)|:fire:|
+
+
 
 
