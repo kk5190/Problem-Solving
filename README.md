@@ -36,5 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Minimum depth of a binary tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/111-minimum-depth-of-binary-tree)|:fire:|
 
 
+## [Backtracking](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking)
+
+| Problem      | Difficulty |
+| ----------- | ----------- |
+| [Permutations](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/46-permutations)|:fire::fire:|
+
+
+
 
 
