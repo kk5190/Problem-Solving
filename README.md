@@ -61,6 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | No. | Problem      | Difficulty |
 | --- | ----------- | ----------- |
 | 1.  | [Permutations](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/46-permutations)|:fire::fire:|
+| 2.  | [Letter Combinations of a Phone Number](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/17-letter-combinations-of-a-phone-number)|:fire::fire:|
+| 3.  | [Word Break](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/139-word-break)|:fire::fire:|
+| 4.  | [Decode Ways](91-decode-ways)|:fire::fire:|
+| 5.  | [Palindrome Partitioning](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/131-palindrome-partitioning)|:fire::fire:|
+| 6.  | [Combination Sum](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/39-combination-sum)|:fire::fire:|
+| 7.  | [Subsets](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/78-subsets)|:fire::fire:|
 
 
 
