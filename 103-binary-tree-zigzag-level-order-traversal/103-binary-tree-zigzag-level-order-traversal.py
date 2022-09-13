@@ -21,8 +21,9 @@ class Solution:
                     if child is not None:
                         queue.append(child)
             if not left_to_right:
-                level.reverse()
-            res.append(level)
+                res.append(level[::-1])
+            else:
+                res.append(level)
             left_to_right = not left_to_right
         return res
         
