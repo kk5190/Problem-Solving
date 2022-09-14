@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
   - [Binary Search](#binary-search)
   - [Depth First Search](#depth-first-search)
   - [Backtracking](#backtracking)
+  - [Breadth First Search](#breadth-first-search)
 
 
 ## [Two Pointers](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers)
@@ -68,7 +69,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 6.  | [Combination Sum](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/39-combination-sum)|:fire::fire:|
 | 7.  | [Subsets](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/78-subsets)|:fire::fire:|
 
+## [Breadth First Search]()
 
+| No. | Problem      | Difficulty |
+| --- | ----------- | ----------- |
+| 1.  | [Binary Tree Level Order Traversal]()|:fire::fire:|
+| 2.  | [Binary Tree Zigzag Level Order Traversal]()|:fire::fire:|
+| 3.  | [Binary Tree Right Side View]()|:fire::fire:|
+| 4.  | [Binary Tree Min Depth]()|:fire:|
 
 
 
