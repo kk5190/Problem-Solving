@@ -2,8 +2,9 @@ class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
         ans = 0
         previous = 0
+        n = len(colors)
         
-        for i in range(1, len(colors)):
+        for i in range(1, n):
             if colors[i] != colors[previous]:
                 previous = i
             else:
