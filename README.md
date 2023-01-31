@@ -1,10 +1,10 @@
 # Problem-Solving
 
-A collection of LeetCode problems and solutions categorized by coding patterns. - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+A collection of LeetCode problems and solutions categorized by coding patterns.
 
 ## Problem List
 
-- Coding Pattern 1: [Two Pointers](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers)
+- [Coding Pattern 1: Two Pointers](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers)
   - [Remove Duplicates](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers/26-remove-duplicates-from-sorted-array)
   - [Middle of a Linked List](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers/876-middle-of-the-linked-list)
   - [Move Zeros](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers/283-move-zeroes)
@@ -18,7 +18,7 @@ A collection of LeetCode problems and solutions categorized by coding patterns. 
   - [Get the Maximum Score](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers/1537-get-the-maximum-score)
   - [Trapping Rain Water](https://github.com/kk5190/Problem-Solving/tree/main/Two%20Pointers/42-trapping-rain-water)
 
-- Coding Pattern 2:[Binary Search](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search)
+- [Coding Pattern 2: Binary Search](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search)
   - [Binary Search](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/704-binary-search)
   - [First Bad Version](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/278-first-bad-version)
   - [Peak of Mountain Array](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/852-peak-index-in-a-mountain-array)
@@ -27,7 +27,7 @@ A collection of LeetCode problems and solutions categorized by coding patterns. 
   - [Capacity to Ship Packages Within D Days](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/1011-capacity-to-ship-packages-within-d-days)
   - [Koko Eating Bananas](https://github.com/kk5190/Problem-Solving/tree/main/Binary%20Search/875-koko-eating-bananas)
 
-- Coding Pattern 3: [Depth First Search](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search)
+- [Coding Pattern 3: Depth First Search](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search)
   - [Maximum depth of a binary tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/104-maximum-depth-of-binary-tree)
   - [Minimum depth of a binary tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/111-minimum-depth-of-binary-tree)
   - [Invert Binary Tree](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/226-invert-binary-tree)
@@ -41,7 +41,7 @@ A collection of LeetCode problems and solutions categorized by coding patterns. 
   - [Serialize and Deserialize Binary Tree ](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/297-serialize-and-deserialize-binary-tree)
   - [Vertical Order Traversal of a Binary Tree ](https://github.com/kk5190/Problem-Solving/tree/main/Depth%20First%20Search/987-vertical-order-traversal-of-a-binary-tree)
 
-- Coding Pattern 4: [Backtracking](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking)
+- [Coding Pattern 4: Backtracking](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking)
   - [Permutations](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/46-permutations)
   - [Letter Combinations of a Phone Number](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/17-letter-combinations-of-a-phone-number)
   - [Word Break](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/139-word-break)
@@ -50,18 +50,18 @@ A collection of LeetCode problems and solutions categorized by coding patterns. 
   - [Combination Sum](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/39-combination-sum)
   - [Subsets](https://github.com/kk5190/Problem-Solving/tree/main/Backtracking/78-subsets)
 
-- Coding Pattern 5: Breadth First Search](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search)
+- [Coding Pattern 5: Breadth First Search](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search)
   - [Binary Tree Level Order Traversal](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search/102-binary-tree-level-order-traversal)
   - [Binary Tree Zigzag Level Order Traversal](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search/103-binary-tree-zigzag-level-order-traversal)
   - [Binary Tree Right Side View](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search/199-binary-tree-right-side-view)
   - [Binary Tree Min Depth](https://github.com/kk5190/Problem-Solving/tree/main/Breadth%20First%20Search/111-minimum-depth-of-binary-tree)
 
-- Coding Pattern 6: [Graph](https://github.com/kk5190/Problem-Solving/tree/main/Graph)
+- [Coding Pattern 6: Graph](https://github.com/kk5190/Problem-Solving/tree/main/Graph)
   - [Find if path exists is graph](https://github.com/kk5190/Problem-Solving/tree/main/Graph/1971-find-if-path-exists-in-graph)
   - [Number of Islands](https://github.com/kk5190/Problem-Solving/tree/main/Graph/200-number-of-islands)
   - [Flood Fill](https://github.com/kk5190/Problem-Solving/tree/main/Graph/733-flood-fill)
 
-- Coding Pattern 7: [Priority Queue and Heap](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap)
+- [Coding Pattern 7: Priority Queue and Heap](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap)
   - [K Closest points](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap/973-k-closest-points-to-origin)
   - [Merge K Sorted Lists](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap/23-merge-k-sorted-lists)
   - [Kth Largest Element in an Array](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap/215-kth-largest-element-in-an-array)
@@ -70,7 +70,7 @@ A collection of LeetCode problems and solutions categorized by coding patterns. 
   - [Ugly Number](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap/264-ugly-number-ii)
   - [Median of Data Stream](https://github.com/kk5190/Problem-Solving/tree/main/Priority%20Queue%20and%20Heap/295-find-median-from-data-stream)
 
-- Coding Pattern 8: [Interval](https://github.com/kk5190/Problem-Solving/tree/main/Interval)
+- [Coding Pattern 8: Interval](https://github.com/kk5190/Problem-Solving/tree/main/Interval)
   - [Insert Intervals](https://github.com/kk5190/Problem-Solving/tree/main/Interval/57-insert-interval)
   - [Merge Intervals](https://github.com/kk5190/Problem-Solving/tree/main/Interval/56-merge-intervals)
 
@@ -90,7 +90,7 @@ Feel free to submit pull requests and add your own solutions to this repository.
 
 ## Acknowledgments
 - [LeetCode](https://leetcode.com/)
-- [LeetHub] (https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi?hl=en)
+- [LeetHub](https://github.com/QasimWani/LeetHub)
 
 ## Disclaimer
 The solutions provided in this repository are meant to be used as reference material and are not to be submitted as one's own work. Always strive to understand the problem and come up with your own solution.
